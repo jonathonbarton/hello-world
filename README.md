@@ -1,2 +1,3 @@
 # hello-world
-This would be a description for a learning how to GIT done.
+I'm learning how to use github to work on my ServiceNow code. 
+
